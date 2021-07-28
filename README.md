@@ -9,6 +9,6 @@
 
 ## 📫 How to reach me:
  
- <a href="https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?&logo=linkedIn)</a>
+ <a href="https://www.linkedin.com/in/athanasios-mitragkas/"> ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?&logo=linkedIn)</a>
  <a> ![Discord](https://img.shields.io/badge/Discord-sAsPeCt%238643-738ADB) </a>
 
