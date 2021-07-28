@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there I am sAsPeCt👋
 
-<!--
-**sAsPeCt488/sAsPeCt488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on my [personal portfolio](https://saspectcave.net).
+- 🌱 I’m currently reading into **Binary Exploitation** & **Web Application Security**.
+- 🩸 Participating in CTFs with my team `Th3_0rder_0f_th3_pH0en1x`.
 
-Here are some ideas to get you started:
+## 📈 My Stats
+<a align="left"> ![Stats](https://github-readme-stats.vercel.app/api?username=sAsPeCt488) </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+ 
+ <a href="https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?&logo=linkedIn)</a>
+ <a> ![Discord](https://img.shields.io/badge/Discord-sAsPeCt%238643-738ADB) </a>
+
