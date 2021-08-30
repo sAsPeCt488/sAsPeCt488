@@ -3,6 +3,7 @@
 - 🔭 I'm currently working on my [personal portfolio](https://saspectcave.net).
 - 🌱 I’m currently reading into **Binary Exploitation** & **Web Application Security**.
 - 🩸 Participating in CTFs with my team `Th3_0rder_0f_th3_pH0en1x`.
+- ♟️ Member of the Hellenic Cybersecurity Team.
 
 ## 📈 My Stats
 <a align="left"> ![Stats](https://github-readme-stats.vercel.app/api?username=sAsPeCt488) </a>
