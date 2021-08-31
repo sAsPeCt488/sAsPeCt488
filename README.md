@@ -1,8 +1,8 @@
 ## Hi there I am sAsPeCt👋
 
-- 🔭 I'm currently working on my [personal portfolio](https://saspectcave.net).
+- 🔭 I'm currently working on my [`personal portfolio`](https://saspectcave.net).
 - 🌱 I’m currently reading into **Binary Exploitation** & **Web Application Security**.
-- 🩸 Participating in CTFs with my team `Th3_0rder_0f_th3_pH0en1x`.
+- 🩸 Participating in CTFs with my team [`Th3_0rder_0f_th3_pH0en1x`](https://ctftime.org/team/149880).
 - ♟️ Member of the Hellenic Cybersecurity Team.
 
 ## 📈 My Stats
