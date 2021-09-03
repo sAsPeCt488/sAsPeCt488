@@ -12,3 +12,4 @@
  
  <a href="https://www.linkedin.com/in/athanasios-mitragkas/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  <a href="https://twitter.com/saspect488"> ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+ <a href="https://discordapp.com/users/175247178879467521"> ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
