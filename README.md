@@ -14,6 +14,7 @@
  <a href="https://twitter.com/saspect488"> ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
  <a href="https://discordapp.com/users/175247178879467521"> ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
 
+Key Fingerprint: `7A35 FBE5 29BC E0B1 42A8  542E B0B8 EC23 BED2 968D`
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -68,4 +69,4 @@ QJa33GsM1cWjkJ269WCzKgjWQGCDNFt6GmJnU0wdoSPh0EZX2Zvx/zbVnWg=
 =q0aG
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-Key Fingerprint: `7A35 FBE5 29BC E0B1 42A8  542E B0B8 EC23 BED2 968D`
+
