@@ -6,7 +6,7 @@
 - ♟️ Member of the Hellenic Cybersecurity Team.
 
 ## 📈 My Stats
-<a align="left"> ![Stats](https://github-readme-stats.vercel.app/api?username=sAsPeCt488) </a>
+<a align="left"> ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sAsPeCt488&theme=merko) </a>
 
 ## 📫 How to reach me:
  
