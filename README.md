@@ -1,4 +1,4 @@
-## Hi there I am sAsPeCt👋
+## What am I doing?
 
 - 🔭 I'm currently working on my [`personal portfolio`](https://saspectcave.net).
 - 🌱 I’m currently reading into **Binary Exploitation**, **Reverse Engineering & Malware Analysis**.
