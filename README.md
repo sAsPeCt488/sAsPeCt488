@@ -2,7 +2,7 @@
 
 - ✏️ @ [saspectcave.net](https://saspectcave.net).
 - 🔧 messing w/ browsers n' kernels
-- 🩸 ctfs w/ [th3os](https://th3os.com).
+- 🩸 ctfs w/ [th3os](https://th3os.com) n' [0t](https://ctftime.org/team/168845).
 - 🇬🇷 ECSC team.
 
 ## numbers
